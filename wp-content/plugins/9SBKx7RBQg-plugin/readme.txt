@@ -1,1 +1,1 @@
-9SBKx7RBQg plugin
+9SBKx7RBQg plugin v1.0.0
